@@ -5,7 +5,7 @@ Windows 11 is Microsoft’s latest operating system, bringing fresh design, new 
 If you’re running Windows 10, you might be wondering how to **upgrade to Windows 11** smoothly and safely. Whether you want 
 the sleek new interface, better multitasking tools, or enhanced security, upgrading is the way to go! ✨
 
-.. image:: start.png
+.. image:: update-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
